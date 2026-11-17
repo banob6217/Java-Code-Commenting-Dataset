@@ -1,0 +1,252 @@
+[
+  {
+    "id": "C01",
+    "title": "NQueens",
+    "category": "backtracking",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/backtracking/NQueens.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/backtracking/NQueens.java",
+    "dataset_file": "codes/C01_NQueens/NQueens.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C02",
+    "title": "HammingDistance",
+    "category": "bitmanipulation",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/bitmanipulation/HammingDistance.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/bitmanipulation/HammingDistance.java",
+    "dataset_file": "codes/C02_HammingDistance/HammingDistance.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C03",
+    "title": "Caesar",
+    "category": "ciphers",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/ciphers/Caesar.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/ciphers/Caesar.java",
+    "dataset_file": "codes/C03_Caesar/Caesar.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C04",
+    "title": "HuffmanCoding",
+    "category": "compression",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/compression/HuffmanCoding.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/compression/HuffmanCoding.java",
+    "dataset_file": "codes/C04_HuffmanCoding/HuffmanCoding.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C05",
+    "title": "BinaryToDecimal",
+    "category": "conversions",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/conversions/BinaryToDecimal.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/conversions/BinaryToDecimal.java",
+    "dataset_file": "codes/C05_BinaryToDecimal/BinaryToDecimal.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C06",
+    "title": "Knapsack",
+    "category": "dynamicprogramming",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/dynamicprogramming/Knapsack.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/dynamicprogramming/Knapsack.java",
+    "dataset_file": "codes/C06_Knapsack/Knapsack.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C07",
+    "title": "BresenhamLine",
+    "category": "geometry",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/geometry/BresenhamLine.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/geometry/BresenhamLine.java",
+    "dataset_file": "codes/C07_BresenhamLine/BresenhamLine.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C08",
+    "title": "TarjanBridges",
+    "category": "graph",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/graph/TarjanBridges.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/graph/TarjanBridges.java",
+    "dataset_file": "codes/C08_TarjanBridges/TarjanBridges.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C09",
+    "title": "ActivitySelection",
+    "category": "greedyalgorithms",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/greedyalgorithms/ActivitySelection.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/greedyalgorithms/ActivitySelection.java",
+    "dataset_file": "codes/C09_ActivitySelection/ActivitySelection.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C10",
+    "title": "MatrixMultiplication",
+    "category": "matrix",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/matrix/MatrixMultiplication.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/matrix/MatrixMultiplication.java",
+    "dataset_file": "codes/C10_MatrixMultiplication/MatrixMultiplication.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C11",
+    "title": "Armstrong",
+    "category": "maths",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/maths/Armstrong.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/Armstrong.java",
+    "dataset_file": "codes/C11_Armstrong/Armstrong.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C12",
+    "title": "BinarySearch",
+    "category": "searches",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/searches/BinarySearch.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/searches/BinarySearch.java",
+    "dataset_file": "codes/C12_BinarySearch/BinarySearch.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C13",
+    "title": "BubbleSort",
+    "category": "sorts",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/sorts/BubbleSort.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/sorts/BubbleSort.java",
+    "dataset_file": "codes/C13_BubbleSort/BubbleSort.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C14",
+    "title": "Anagrams",
+    "category": "strings",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/strings/Anagrams.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/strings/Anagrams.java",
+    "dataset_file": "codes/C14_Anagrams/Anagrams.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C15",
+    "title": "TowerOfHanoi",
+    "category": "puzzlesandgames",
+    "source_repository": "TheAlgorithms/Java",
+    "source_file": "src/main/java/com/thealgorithms/puzzlesandgames/TowerOfHanoi.java",
+    "source_url": "https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/puzzlesandgames/TowerOfHanoi.java",
+    "dataset_file": "codes/C15_TowerOfHanoi/TowerOfHanoi.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C16",
+    "title": "DynamicArrayMain",
+    "category": "dynamic arrays",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/DataStructures/dynamicArrays/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/DataStructures/dynamicArrays/Main.java",
+    "dataset_file": "codes/C16_DynamicArrayMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C17",
+    "title": "LinkedListMain",
+    "category": "linked lists",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/DataStructures/linkedLists/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/DataStructures/linkedLists/Main.java",
+    "dataset_file": "codes/C17_LinkedListMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C18",
+    "title": "HashTableMain",
+    "category": "hash tables",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/DataStructures/hashTables/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/DataStructures/hashTables/Main.java",
+    "dataset_file": "codes/C18_HashTableMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C19",
+    "title": "PriorityQueueMain",
+    "category": "priority queues",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/DataStructures/priorityQueues/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/DataStructures/priorityQueues/Main.java",
+    "dataset_file": "codes/C19_PriorityQueueMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C20",
+    "title": "QueueMain",
+    "category": "queues",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/DataStructures/queues/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/DataStructures/queues/Main.java",
+    "dataset_file": "codes/C20_QueueMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C21",
+    "title": "StackMain",
+    "category": "stacks",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/DataStructures/stacks/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/DataStructures/stacks/Main.java",
+    "dataset_file": "codes/C21_StackMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C22",
+    "title": "DepthFirstSearchMain",
+    "category": "graph traversal",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/Graphs/DepthFirstSearch/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/Graphs/DepthFirstSearch/Main.java",
+    "dataset_file": "codes/C22_DepthFirstSearchMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C23",
+    "title": "InterpolationSearchMain",
+    "category": "searching",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/SearchAlgorithms/interpolationSearch/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/SearchAlgorithms/interpolationSearch/Main.java",
+    "dataset_file": "codes/C23_InterpolationSearchMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C24",
+    "title": "MergeSortMain",
+    "category": "sorting",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/SortAlgorithms/mergeSort/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/SortAlgorithms/mergeSort/Main.java",
+    "dataset_file": "codes/C24_MergeSortMain/Main.java",
+    "source_content_modified": "No"
+  },
+  {
+    "id": "C25",
+    "title": "BinarySearchTreeMain",
+    "category": "trees",
+    "source_repository": "otuemre/dsa-Java",
+    "source_file": "src/Trees/binarySearchTree/Main.java",
+    "source_url": "https://github.com/otuemre/dsa-Java/blob/master/src/Trees/binarySearchTree/Main.java",
+    "dataset_file": "codes/C25_BinarySearchTreeMain/Main.java",
+    "source_content_modified": "No"
+  }
+]
